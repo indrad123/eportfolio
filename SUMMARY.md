@@ -8,3 +8,4 @@
 * [An Essay of the Importance of Postgraduate on Computer Science in the Artificial Intelligence Field](an-essay-of-the-importance-of-postgraduate-on-computer-science-in-the-artificial-intelligence-field.md)
 * [Customer Churn Analysis  in the Telco Company](customer-churn-analysis-in-the-telco-company.md)
 * [Artificial Intelligence and  Its Applications in Investment Industry](artificial-intelligence-and-its-applications-in-investment-industry.md)
+* [Reflective on Machine Learning Study Journey](https://indra-dewaji.gitbook.io/machine-learning/)

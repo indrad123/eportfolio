@@ -10,3 +10,4 @@
 * [Artificial Intelligence and Its Applications in Investment Industry](artificial-intelligence-and-its-applications-in-investment-industry.md)
 * [Reflective on Machine Learning Study Journey](https://indra-dewaji.gitbook.io/machine-learning/)
 * [Knowledge Representation Reasoning](knowledge-representation-reasoning.md)
+* [Intelligent Agent](https://indra-dewaji.gitbook.io/intelligent-agents/)

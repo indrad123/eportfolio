@@ -11,4 +11,4 @@
 * [Reflective on Machine Learning Study Journey](https://indra-dewaji.gitbook.io/machine-learning/)
 * [Knowledge Representation Reasoning](knowledge-representation-reasoning.md)
 * [Intelligent Agent](https://indra-dewaji.gitbook.io/intelligent-agents/)
-* [Research Methodology](https://github.com/indrad123/researchmethodology/blob/main/README.md)
+* [Research Methodology](https://indra-dewaji.gitbook.io/research-methodology/)
